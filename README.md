@@ -12,7 +12,6 @@
   <li><a href="https://visualgo.net/">best for DSA</a><br></li>
 </ul>
 
---> <a href="https://codesandbox.io/">Codesandbox for coding IDE</a><br>
 --> <a href="https://replit.com/">Replit for coding IDE</a><br>
 --> <a href="https://learn.microsoft.com/en-in/training/">Learn with microsoft</a> 
 * go training > career paths > and find which course you want to learn <br><br>
