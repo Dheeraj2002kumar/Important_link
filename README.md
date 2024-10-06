@@ -3,7 +3,7 @@
   <li><a href="https://visualgo.net/">best for DSA</a><br></li>
   <li><a href="https://app.diagrams.net/">Draw.io for system desgin</a><br></li>
   <li><a href="https://excalidraw.com/"> best for making notes (Excalidraw https://excalidraw.com/)</a></li>
-  <li><a href="https://visualgo.net/">best for DSA</a><br></li>
+  <li><a href="https://codesandbox.io/">Codesandbox for coding IDE</a></li>
   <li><a href="https://visualgo.net/">best for DSA</a><br></li>
   <li><a href="https://visualgo.net/">best for DSA</a><br></li>
   <li><a href="https://visualgo.net/">best for DSA</a><br></li>
