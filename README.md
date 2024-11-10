@@ -5,7 +5,7 @@
 <ul>
   
   
-  <li><br></li>
+
   
   <li><a href="https://excalidraw.com/"> best for making notes (Excalidraw https://excalidraw.com/)</a></li>
   
