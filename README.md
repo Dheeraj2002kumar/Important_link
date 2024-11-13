@@ -2,9 +2,10 @@
 
 - <a href="https://visualgo.net/">best for DSA</a>
 - <a href="https://app.diagrams.net/">Draw.io for system desgin</a>
+- <a href="https://excalidraw.com/"> best for making notes (Excalidraw https://excalidraw.com/)</a>
 <ul>
   
-  <li><a href="https://excalidraw.com/"> best for making notes (Excalidraw https://excalidraw.com/)</a></li>
+  <li></li>
   
   <li><a href="https://codesandbox.io/">Codesandbox for coding IDE</a></li>
   
