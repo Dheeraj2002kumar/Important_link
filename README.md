@@ -9,8 +9,7 @@
   
   
   
-  
-     
+       
   <li><a href="https://learn.microsoft.com/en-in/training/">Learn with microsoft</a></li>
   
 * go training > career paths > and find which course you want to learn <br><br>
