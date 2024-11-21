@@ -21,3 +21,13 @@
 
 
 - <a href="https://search.app?link=https%3A%2F%2Fmlu-explain.github.io%2F&utm_campaign=aga&utm_source=agsadl2%2Csh%2Fx%2Fgs%2Fm2%2F4">machine learning</a>
+
+<hr>
+## Project Deployement Website
+
+#### Backend deployed in Render <a href="https://dashboard.render.com/">Link </a>
+  - <a href="https://qtrip-dynamic-p7ai.onrender.com">Backend deployed link </a>
+
+#### Frontend deployed in Versel <a href="https://vercel.com/dheeraj-kumars-projects-924c29fc"> Link </a>
+  - <a href="https://qtrip-dynamic-30yfn6mh6-dheeraj-kumars-projects-924c29fc.vercel.app/">Frontend deployed link </a>
+<hr>
