@@ -30,3 +30,7 @@
 #### Frontend deployed in Versel <a href="https://vercel.com/dheeraj-kumars-projects-924c29fc"> Link </a>
   - <a href="https://qtrip-dynamic-30yfn6mh6-dheeraj-kumars-projects-924c29fc.vercel.app/">Frontend deployed link </a>
 <hr>
+
+### XCruise <a href="https://www.crio.do/learn/portfolio/dk8549644/ME_FE_BUILDOUT_XCRUISE/?edit=true">Link</a>
+
+
