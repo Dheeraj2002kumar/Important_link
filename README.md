@@ -22,6 +22,7 @@
 <hr>
 
 ## Project Deployement Website
+### QTripDynamic
 
 #### Backend deployed in Render <a href="https://dashboard.render.com/">Link </a>
   - <a href="https://qtrip-dynamic-p7ai.onrender.com">Backend deployed link </a>
