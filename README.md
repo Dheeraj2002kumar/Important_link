@@ -39,3 +39,8 @@
 <hr>
 
 ## MIT Cources <a href="https://ocw.mit.edu/search/?t=Algorithms+and+Data+Structures">Link</a>
+
+<hr>
+
+## javascript info <a href="https://success.simplilearn.com/75719929">link</a>
+## desgin pattern <a href="https://refactoring.guru/design-patterns">link</a>
