@@ -41,6 +41,10 @@
 
 ## MIT Cources <a href="https://ocw.mit.edu/search/?t=Algorithms+and+Data+Structures">Link</a>
 
+
+<hr>
+### Different type of char <a href="https://www.data-to-viz.com/">Link</a>
+
 <hr>
 
 ## javascript info <a href="https://success.simplilearn.com/75719929">link</a>
