@@ -52,3 +52,4 @@
 
 ### SQL Commands - <a href="https://www.freecodecamp.org/news/learn-sql-in-10-minutes/">Link</a>
 ### Tableau tranning video - <a href="https://www.tableau.com/en-gb/learn/training">Link</a>
+### Matplotlib lifcycle - <a href="https://matplotlib.org/stable/tutorials/lifecycle.html">Link</a>
