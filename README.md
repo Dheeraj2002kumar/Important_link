@@ -51,3 +51,4 @@
 ## desgin pattern <a href="https://refactoring.guru/design-patterns">link</a>
 
 ### SQL Commands - <a href="https://www.freecodecamp.org/news/learn-sql-in-10-minutes/">Link</a>
+### Tableau tranning video - <a href="https://www.tableau.com/en-gb/learn/training">Link</a>
