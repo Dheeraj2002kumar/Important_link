@@ -54,3 +54,7 @@
 ### Tableau tranning video - <a href="https://www.tableau.com/en-gb/learn/training">Link</a>
 ### Matplotlib lifcycle - <a href="https://matplotlib.org/stable/tutorials/lifecycle.html">Link</a>
 ### ggplot - <a href="https://ggplot2.tidyverse.org/">Link</a>
+
+
+<hr>
+#### Big Data - <a href="https://skills.yourlearning.ibm.com/activity/PLAN-92E2B150F301">Link</a>
