@@ -45,6 +45,14 @@
 
 <hr>
 
+### Project QKart Frontend
+#### Backend deployed in Render <a href="https://dashboard.render.com/web/srv-cu6f7sggph6c73c641eg/deploys/dep-cu6f7sogph6c73c641g0">Link</a>
+  - <a href="https://dk8549644-me-qkart-frontend-v2-1.onrender.com">Backend deployed in Render URL</a>
+
+### Frontend deployed in vercel <a href="https://vercel.com/dheeraj-kumars-projects-924c29fc/dk8549644-me-qkart-frontend-v2/EVynG1Jh2JbXpgYwrs9XNVszVk4u">Link</a>
+  - <a href="https://dk8549644-me-qkart-frontend-v2-p609i926z.vercel.app/"> Frontend deployed URL in Vercel</a>
+<hr>
+
 ## MIT Cources <a href="https://ocw.mit.edu/search/?t=Algorithms+and+Data+Structures">Link</a>
 
 
