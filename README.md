@@ -7,7 +7,7 @@
 - <a href="https://replit.com/">Replit for coding IDE</a>
 - <a href="https://www.javascripttutorial.net/es6/">JavaScript Tutorial</a>
 - <a href="https://learn.microsoft.com/en-in/training/">Learn with microsoft</a>
-  - go training > career paths > and find which course you want to learn <br><br>
+  - go training > career paths > and find which course you want to learn <br><br> 
 - <a href="https://www.javatpoint.com/data-structure-tutorial">DSA learn with Javatpoint</a> 
    
     
