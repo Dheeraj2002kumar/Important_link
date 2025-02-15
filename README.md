@@ -73,3 +73,6 @@
 <hr>
 
 ### Big Data learning - <a href="https://skills.yourlearning.ibm.com/activity/PLAN-92E2B150F301">Link</a>
+
+
+### ER-Diagram <a href="https://drawsql.app/teams/ab-team-1/diagrams/koel-a-db-schema">Link</a>
