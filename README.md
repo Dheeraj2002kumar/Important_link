@@ -1,4 +1,5 @@
 # Important_links🔗 
+
               
 - <a  href="https://visualgo.net/">best for DSA</a>
 - <a href="https://app.diagrams.net/">Draw.io for system desgin</a>
@@ -10,6 +11,7 @@
   - go training > career paths > and find which course you want to learn <br><br> 
 - <a href="https://www.javatpoint.com/data-structure-tutorial">DSA learn with Javatpoint</a>
 - <a href="https://letsresource.in/resouces/dsaguide">Data Structure Notes </a>
+- <a href="https://atozplacementkit.substack.com/p/1750-talent-acquisition-database?utm_campaign=posts-open-in-app&triedRedirect=true"> Interview preparation </a>
   
  
   
