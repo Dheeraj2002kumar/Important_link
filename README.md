@@ -88,3 +88,5 @@
 
 
 ### ER-Diagram <a href="https://drawsql.app/teams/ab-team-1/diagrams/koel-a-db-schema">Link</a>
+
+## DSA Pattern <a href="https://www.14dsa.com/course/two-pointer">Link</a>
