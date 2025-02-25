@@ -93,3 +93,4 @@
 ## Important DSA question for interview <a href="https://neetcode.io/practice?tab=blind75">Link</a>
 ## Open Source contribution <a href="https://github.com/grafana/grafana">Link</a>
 ## Open Source contribution that you can find topic wise contribution <a href="https://goodfirstissue.dev/language/javascript">Link</a>
+## important repo for js <a href="https://github.com/Dheeraj2002kumar/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md">Link</a>
