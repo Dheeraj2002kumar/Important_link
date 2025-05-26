@@ -76,7 +76,8 @@ A curated list of essential resources for **DSA, System Design, Web Development,
 
 ## 🏆 Miscellaneous  
 - [Learn with Microsoft](https://learn.microsoft.com/en-in/training/) - Career paths and courses.  
-- [Important JavaScript Repos](https://github.com/Dheeraj2002kumar/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md) - Advanced JavaScript concepts.  
+- [Important JavaScript Repos](https://github.com/Dheeraj2002kumar/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md) - Advanced JavaScript concepts.
+- [Most of the language and framwork resourse](https://zetcode.com/all/#js) - Java spring, JavaScript, C#.
 
 ---
 
