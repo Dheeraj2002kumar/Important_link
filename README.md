@@ -23,7 +23,8 @@ A curated list of essential resources for **DSA, System Design, Web Development,
 - [CodeSandbox](https://codesandbox.io/) - Online IDE for frontend development.  
 - [Replit](https://replit.com/) - Cloud-based IDE for multiple languages.  
 - [JavaScript Tutorial](https://www.javascripttutorial.net/es6/) - Learn JavaScript ES6+ with examples.
-- [Java and SpringBoot](https://howtodoinjava.com/) - Learn Java and springboot and unit testing full 
+- [Java and SpringBoot](https://howtodoinjava.com/) - Learn Java and springboot and unit testing full
+- [Java resource](https://beginnersbook.com/2013/05/java-introduction/) - Learn java
 
 ---
 
