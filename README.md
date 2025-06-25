@@ -9,7 +9,8 @@ A curated list of essential resources for **DSA, System Design, Web Development,
 - [Javatpoint DSA](https://www.javatpoint.com/data-structure-tutorial) - Learn DSA with step-by-step tutorials.  
 - [Data Structure Notes](https://letsresource.in/resouces/dsaguide) - Comprehensive notes for DSA.  
 - [NeetCode DSA Practice](https://neetcode.io/practice?tab=blind75) - Important DSA questions for interviews.  
-- [14DSA Patterns](https://www.14dsa.com/course/two-pointer) - DSA pattern-based learning.  
+- [14DSA Patterns](https://www.14dsa.com/course/two-pointer) - DSA pattern-based learning.
+- [Most of the language](https://www.tutorialspoint.com/java/index.htm) - Most of the language and framwork we can lean
 
 ---
 
