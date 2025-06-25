@@ -11,6 +11,7 @@ A curated list of essential resources for **DSA, System Design, Web Development,
 - [NeetCode DSA Practice](https://neetcode.io/practice?tab=blind75) - Important DSA questions for interviews.  
 - [14DSA Patterns](https://www.14dsa.com/course/two-pointer) - DSA pattern-based learning.
 - [Most of the language](https://www.tutorialspoint.com/java/index.htm) - Most of the language and framwork we can lean
+- [We can lean software development and springboot](https://www.tpointtech.com/spring-boot-tutorial) - Software development and java springboot
 
 ---
 
