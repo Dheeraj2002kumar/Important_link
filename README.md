@@ -29,6 +29,7 @@ A curated list of essential resources for **DSA, System Design, Web Development,
 - [Java resource](https://beginnersbook.com/2013/05/java-introduction/) - Learn java
 - [Jest](https://flaviocopes.com/jest/) - Jest for testing
 - [Jest javascript](https://www.valentinog.com/blog/jest/) - jest javascript testing
+- [Jest official website](https://jestjs.io/docs/expect) - jest documentation
 
 ---
 
