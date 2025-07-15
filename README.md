@@ -27,6 +27,7 @@ A curated list of essential resources for **DSA, System Design, Web Development,
 - [JavaScript Tutorial](https://www.javascripttutorial.net/es6/) - Learn JavaScript ES6+ with examples.
 - [Java and SpringBoot](https://howtodoinjava.com/) - Learn Java and springboot and unit testing full
 - [Java resource](https://beginnersbook.com/2013/05/java-introduction/) - Learn java
+- [Jest](https://flaviocopes.com/jest/) - Jest for testing
 
 ---
 
