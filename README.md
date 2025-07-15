@@ -28,6 +28,7 @@ A curated list of essential resources for **DSA, System Design, Web Development,
 - [Java and SpringBoot](https://howtodoinjava.com/) - Learn Java and springboot and unit testing full
 - [Java resource](https://beginnersbook.com/2013/05/java-introduction/) - Learn java
 - [Jest](https://flaviocopes.com/jest/) - Jest for testing
+- [Jest javascript](https://www.valentinog.com/blog/jest/) - jest javascript testing
 
 ---
 
